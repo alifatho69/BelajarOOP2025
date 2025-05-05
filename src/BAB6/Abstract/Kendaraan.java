@@ -10,7 +10,8 @@ package BAB6.Abstract;
  */
 abstract class Kendaraan {
     String merk;
-
+    
+    // Konstruktor
     Kendaraan(String merk) {
         this.merk = merk;
     }

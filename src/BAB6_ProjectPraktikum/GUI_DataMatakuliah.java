@@ -125,6 +125,11 @@ public class GUI_DataMatakuliah extends javax.swing.JFrame {
         });
 
         btnubah.setText("Ubah");
+        btnubah.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                btnubahActionPerformed(evt);
+            }
+        });
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
@@ -244,6 +249,10 @@ public class GUI_DataMatakuliah extends javax.swing.JFrame {
         // TODO add your handling code here:
         clear();
     }//GEN-LAST:event_btnbatalActionPerformed
+
+    private void btnubahActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnubahActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_btnubahActionPerformed
 
     /**
      * @param args the command line arguments

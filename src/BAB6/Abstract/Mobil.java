@@ -9,7 +9,8 @@ package BAB6.Abstract;
  * @author Fauzan
  */
 class Mobil extends Kendaraan {
-
+    
+    // Konstruktor
     Mobil(String merk) {
         super(merk);
     }

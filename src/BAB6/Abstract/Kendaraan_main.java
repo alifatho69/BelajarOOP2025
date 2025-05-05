@@ -8,8 +8,8 @@ package BAB6.Abstract;
  *
  * @author Fauzan
  */
-public class mainn {
-    public static void maiin(String[] args) {
+public class Kendaraan_main {
+    public static void main(String[] args) {
         Mobil mobil1 = new Mobil("Toyota");
         Sepeda sepeda1 = new Sepeda("Polygon");
 
