@@ -4,14 +4,6 @@
  */
 package Penilaian_GUI_MainMenu;
 
-import BAB5.Bab5_Mahasiswa.*;
-import Bab5.Bab5_Mahasiswa.Mahasiswa;
-import java.util.ArrayList;
-import java.util.List;
-import javax.swing.JOptionPane;
-import javax.swing.table.DefaultTableColumnModel;
-import javax.swing.table.DefaultTableModel;
-
 /**
  *
  * @author ASUS
